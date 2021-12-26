@@ -32,6 +32,7 @@ end
     + Agronomic Faculty
 * Stepic - Free Online Courses
     + Ruby - first acquaintance
+* HTML Academy
 
 ## Experience
 
