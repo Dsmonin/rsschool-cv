@@ -1,1 +1,1 @@
-# [rsschool-cv](https://Dsmonin.github.io/rsschool-cv/cv)
+# [CV file](https://dsmonin.github.io/rsschool-cv/)
